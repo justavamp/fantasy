@@ -114,3 +114,34 @@ small {
     letter-spacing: 3px;
 
 }
+
+.social {
+    right: 72px;
+    bottom: 35px;
+    position: absolute;
+}
+
+.social ul li {
+    list-style: none;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.social ul li a {
+    color: black;
+    border-radius: 50%;
+    border: 1px solid black;
+    padding: 5px;
+    display: block;
+}
+
+.personal {
+    width: 50%;
+    float: right;
+}
+
+.personal img {
+    width: 50%;
+    margin-top: 10px;
+    padding-left: 200px;
+}
